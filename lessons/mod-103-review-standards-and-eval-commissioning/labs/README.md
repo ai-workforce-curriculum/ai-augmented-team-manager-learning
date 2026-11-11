@@ -1,5 +1,7 @@
 # Labs for mod-103-review-standards-and-eval-commissioning (Review Standards, Standards-as-Code, and Commissioning Eval Frameworks)
 
-Planned labs:
+Guided hands-on sessions. Each lab calibrates against a fixed, deliberately broken sample (a broken PR + review thread, a broken commissioning brief, a partially-filled OWASP crosswalk) so you can test your reading against a known answer before running the corresponding exercise on your own team.
 
-- `lab-01` — lab-01
+- [Lab 01 — AI-Work Checklist Audit on a Curated Broken PR](lab-01-ai-pr-checklist-audit-on-a-curated-broken-pr.md) (60–75 min) — audit a fictional AI-authored PR and its two-comment review thread against the Chapter 2 seven-section checklist, identify the eight misses the thin template let through, and rewrite the Correctness / Verification run / Context-fit sections; calibration before Exercise 01.
+- [Lab 02 — Red-Team a Broken Commissioning Brief](lab-02-commissioning-brief-red-team.md) (60–75 min) — grade a deliberately broken commissioning brief against Chapter 4's ten-section rubric, spot the three delegation violations, flag the Chapter 7 boundary slip, and rewrite the pass/fail/regression thresholds and feedback-loop sections; calibration before Exercise 04.
+- [Lab 03 — OWASP LLM Top 10 Crosswalk Gap-Finding on a Fictional Team](lab-03-owasp-crosswalk-gap-finding.md) (60–75 min) — walk a partially-filled crosswalk for a fictional customer-platform team, diagnose each row by failure mode (generic-filler / wrong-section / silent-skip / over-filing), and draft two one-paragraph companion commissions to the `ai-risk-engineer` peer; calibration before Exercise 06.

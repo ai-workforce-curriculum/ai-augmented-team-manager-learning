@@ -1,5 +1,9 @@
 # Labs for mod-105-team-ai-enablement-programs (Team-Level AI Enablement Programs)
 
-Planned labs:
+Guided, step-by-step hands-on sessions against curated fictional samples with answer keys. Each lab complements — does not duplicate — one or more exercises in [`exercises/`](../exercises/); the lab is a diagnostic drill on a fixed input, the exercise is an authoring task on your real team.
 
-- `lab-01` — lab-01
+## Available
+
+- [Lab 01 — Programme Diagnostic on a Curated Enablement Plan](lab-01-programme-diagnostic-on-a-curated-enablement-plan.md) — 60–75 min. Chapters 1, 2, 3, with side-checks against Chapter 7. Diagnose every Chapter-1 failure mode, Chapter-2 structural defect, and Chapter-3 format mistake in a deliberately broken single-page enablement plan for a fictional 18-person platform team, then rewrite the cohort structure, the checkpoint timeline, and the delivery-format mix. Calibrates for Exercises 01 and 04.
+- [Lab 02 — Stage-Pin and Budget-Shape Drill on a Fictional Roster](lab-02-stage-pin-and-budget-shape-drill.md) — 45–60 min. Chapter 4, with side-checks against Chapters 1, 2, and 7. Pin twelve engineers on a fictional team to a Chapter-4 stage from their observed behaviour, audit a seniority-banded seat policy and a flat token cap against the Chapter-4 anti-patterns, and write the stage-shaped budget table plus the Chapter-7 reply to Finance. Calibrates for Exercise 02.
+- [Lab 03 — Fluency-Artifact Scoring Drill on Three Reflections](lab-03-fluency-artifact-scoring-drill.md) — 60–75 min. Chapters 5 and 6, with side-checks against Chapters 1 and 2. Score a Day-30 first-successful-PR reflection, a Day-60 pair-with-agent reflection, and a Day-90 review-of-your-review from a fictional cohort against the Chapter-5 specificity / honesty / change-of-mind guardrails, identify the Chapter-2 failure signature firing on the Day-60 reflection, then rewrite the manager's one-pager narrative paragraph in Chapter-6 responsible-citation shape. Calibrates for Exercise 03.

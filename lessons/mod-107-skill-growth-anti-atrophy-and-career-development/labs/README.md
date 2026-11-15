@@ -1,5 +1,7 @@
 # Labs for mod-107-skill-growth-anti-atrophy-and-career-development (Skill Growth, Anti-Atrophy, and Career Development in AI-Augmented Teams)
 
-Planned labs:
+The labs below are guided, calibration-against-answer-key drills on fictional teams. They complement — and do not duplicate — the five exercises, which ask you to author your own team's artifacts.
 
-- `lab-01` — lab-01
+- [`lab-01-channel-diagnosis-on-curated-snippets.md`](lab-01-channel-diagnosis-on-curated-snippets.md) — 60–75 min. Read five 1:1 and retro snippets from a fictional team; identify which of the three channels (growth-path / differentiation / deference) is active, which Chapter 5 carve-out responds, and classify the retro excerpt on the Westrum typology. Calibration before Exercises 01 and 02.
+- [`lab-02-prompt-bank-audit-and-rewrite.md`](lab-02-prompt-bank-audit-and-rewrite.md) — 45–60 min. Audit a peer manager's draft 1:1 prompt bank (twelve prompts across the four Chapter 7 categories, deliberately mixed); score each against the four-signal rubric and name the Chapter 7 failure modes; rewrite the three weakest. Calibration before Exercise 04.
+- [`lab-03-promotion-packet-walk-under-the-amended-ladder.md`](lab-03-promotion-packet-walk-under-the-amended-ladder.md) — 60–75 min. Walk a senior → staff promotion packet — drafted in the pre-AI-augmentation shape — against Chapter 6's three-axis amendment and the Sections 2a / 2b / 3 / 4 structure; produce a verdict and the named additions the candidate-manager should request. Calibration before Exercise 03.

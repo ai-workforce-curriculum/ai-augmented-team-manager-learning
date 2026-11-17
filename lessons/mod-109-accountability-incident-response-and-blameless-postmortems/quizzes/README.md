@@ -1,3 +1,3 @@
 # Accountability, AI-Incident Response, and Blameless Post-Mortems quizzes
 
-Authored under the autonomous fill-in loop.
+- [Quiz 01 — AI-Incident Response and Blameless Post-Mortems](quiz-01-ai-incident-response-and-blameless-postmortems.md) — 11 multiple-choice questions covering all seven chapters. Each question tests a specific scope-of-practice decision (contain-first move, trace-preservation obligation, outside-in fault-chain walk, anthropomorphism discipline, incident-class triage, clean-handoff fields, backfeed-ticket shape, retrospective audience, routing triggers). Answer key points at the chapter and section the answer comes from. 8/11 is a pass.

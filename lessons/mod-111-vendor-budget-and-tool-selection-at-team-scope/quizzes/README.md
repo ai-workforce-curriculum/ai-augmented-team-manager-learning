@@ -1,3 +1,3 @@
-# Vendor Selection, Tool Budget, and Build-vs-Buy at Team Scope quizzes
+# Quizzes for mod-111-vendor-budget-and-tool-selection-at-team-scope (Vendor Selection, Tool Budget, and Build-vs-Buy at Team Scope)
 
-Authored under the autonomous fill-in loop.
+- [Quiz 01 — Vendor Selection, Tool Budget, and Build-vs-Buy at Team Scope](quiz-01-vendor-budget-and-tool-selection-at-team-scope.md) — 11 multiple-choice questions across all seven chapters; each question tests application of a chapter's rule to a specific team-scope decision (scope boundary, bake-off cohort, Axis 4 as gate, stance choice, R6 threshold, standardise-vs-let-ICs-pick, floor-not-cap, three-layer budget reporting, per-tier due-diligence). 8/11 is a pass; answer key points to the chapter per question.

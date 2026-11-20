@@ -1,3 +1,3 @@
-# Cross-Functional Leadership and the Team Ritual Calendar quizzes
+# Quizzes for mod-112-cross-functional-leadership-and-ritual-calendar (Cross-Functional Leadership and the Team Ritual Calendar)
 
-Authored under the autonomous fill-in loop.
+- [Quiz 01 — Cross-Functional Leadership and the Team Ritual Calendar](quiz-01-cross-functional-leadership-and-ritual-calendar.md) — 11 multiple-choice questions covering all seven chapters. Tests whether you can apply each chapter to a specific team-scope situation the manager actually faces — the composition of the operating system (Ch. 1), Lencioni classification and overloaded slots (Ch. 2), decision-rights grid drafting discipline and the Project Oxygen baseline (Ch. 3), one-spine composition and the board-adjacent / board-level boundary (Ch. 4), decision-log reversal conditions and one-pager honesty disciplines (Ch. 5), AIGP as the primary vocabulary anchor (Ch. 6), and the L40 ownership boundary against L45 / L50 / L60 / L70 roles (Ch. 7). 8/11 is a pass.
